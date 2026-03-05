@@ -10,3 +10,6 @@ BOM:
 ![2d pcb layout](<Screenshot 2026-03-05 at 7.32.49 pm.png>)
 ![Case for Codepad with basic model of pcb](codepad.png)
 Firmware is written in circuitpython.
+
+---
+AI declaration: I have used AI for commit messages to this repo, this is the only AI use in this project.
