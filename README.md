@@ -10,7 +10,7 @@ BOM:
 ![3d pcb](image.png)
 ![2d pcb layout](<Screenshot 2026-03-05 at 7.32.49 pm.png>)
 ![Case for Codepad with basic model of pcb](codepad.png)
-
+![schematic](<Screenshot 2026-03-05 at 7.24.24 pm.png>)
 Firmware is written in circuitpython.
 
 ---
