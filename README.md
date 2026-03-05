@@ -6,3 +6,7 @@ BOM:
 |R1|1|330R||||Resistor_SMD:R_0603_1608Metric|~|
 |SW1,SW2,SW3|3|SW_Push||||Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB|~|
 |U1|1|MOUDLE-SEEEDUINO-XIAO||||footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM||
+![3d pcb](image.png)
+![2d pcb layout](<Screenshot 2026-03-05 at 7.32.49 pm.png>)
+![Case for Codepad with basic model of pcb](codepad.png)
+Firmware is written in circuitpython.
